@@ -1,4 +1,7 @@
+
 # Data science portfolio by Pubudu Dissanayake
+
+![alt text](https://github.com/pubudu08/pubudu08.github.io/blob/master/icon-data-science-header.png)
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
