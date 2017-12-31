@@ -15,8 +15,13 @@ This is a hybrid engine combining two deep learning models; ANN and SOM (Self-Or
 
 Motivation: To build an engine composed with supervised and unsupervised deep-learning models 
 
+## Regression Problems. 
+
+
 ## Classification problems.
 
+### Multi-label
+### Multi-class  
 ### Titanic: Machine Learning from Disaster
 
 [Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/FraudStudy.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/FraudStudy.ipynb)
