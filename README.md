@@ -22,13 +22,6 @@ This dataset is well studied and is a good problem for practicing on neural netw
 
 Therefore, it's a multi-class problem, meaning that there are more than two classes to be predicted, in fact there are three flower species. This is an important type of problem on which to practice with ANN because the three class values require specialized handling.
 
-### Titanic: Machine Learning from Disaster
-
-[Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/FraudStudy.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/FraudStudy.ipynb)
-
-Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
-Titanic dataset provides interesting opportunities for feature engineering.
-
 
 ## Natural language processing.
 
