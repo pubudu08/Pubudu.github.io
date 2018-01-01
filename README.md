@@ -22,21 +22,21 @@ This dataset is well studied and is a good problem for practicing on neural netw
 
 Therefore, it's a multi-class problem, meaning that there are more than two classes to be predicted, in fact there are three flower species. This is an important type of problem on which to practice with ANN because the three class values require specialized handling.
 
+### Regression: Analysis of sales patterns and predictions using KNN
 
-## Natural language processing.
+[Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/KNN.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/KNN.ipynb)
 
-### Bag of Words Meets Bags of Popcorn
+This notebook demonstrate the way of using KNeighbors classifier on sales data.
+
+### Natural language processing: Bag of Words Meets Bags of Popcorn
 
 [Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/Word2Vec.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/Word2Vec.ipynb)
 
 Bag of Words Meets Bags of Popcorn is a sentimental analysis problem. Based on texts of reviews we predict whether they are positive or negative. General description and data are available on [Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial).
 The data provided consists of raw reviews and class (1 or 2), so the main part is cleaning the texts.
 
-
-## Clustering
-
-### Clustering with KMeans
+### Clustering: Analysis of Customer purchasing Patterns using K-Means
 
 [Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/K-Means.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/K-Means.ipynb)
 
-Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering. in this notebook I'll demonstrate how it works.
+Problem: Analysis of Customer purchasing Patterns, a clustering approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering. in this notebook I'll demonstrate how it works.
