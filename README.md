@@ -15,9 +15,6 @@ This is a hybrid engine combining two deep learning models; ANN and SOM (Self-Or
 
 Motivation: To build an engine composed with supervised and unsupervised deep-learning models
 
-## Regression Problems.
-
-
 ### Multi-class Classification: Iris Dataset Problem
 [Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/Iris_ANN.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/Iris_ANN.ipynb)
 
