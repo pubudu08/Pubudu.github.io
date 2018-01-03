@@ -25,8 +25,8 @@ Therefore, it's a multi-class problem, meaning that there are more than two clas
 ### Multi-class Classification: Predict the origin of the Wine using ANN and K-Means
 [Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/Wine_ANN.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/Wine_ANN.ipynb)
 
-Goal: Using chemical analysis determine the origin of wines Motivation: Compare two approaches
-
+Goal: Using chemical analysis determine the origin of wines
+Motivation: Compare two approaches
 Data Set Information: These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
 
 ### Regression: Analysis of sales patterns and predictions using KNN
