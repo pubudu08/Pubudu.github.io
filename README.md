@@ -4,6 +4,7 @@
 ![alt text](https://github.com/pubudu08/pubudu08.github.io/blob/master/icon-data-science-header.png)
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
+If you want more information about me or want to get in touch, feel free to message me on [Linkedin](linkedin.com/in/pubududissanayake).
 
 ## Stand-alone projects.
 
@@ -40,3 +41,15 @@ The data provided consists of raw reviews and class (1 or 2), so the main part i
 [Github](https://github.com/pubudu08/pubudu08.github.io/blob/master/Noteboooks/K-Means.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/pubudu08/pubudu08.github.io/blob/master/Noteboooks/K-Means.ipynb)
 
 Problem: Analysis of Customer purchasing Patterns, a clustering approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering. in this notebook I'll demonstrate how it works.
+
+
+## About Me,
+
+Canberra,AU based and results driven data analyst with strong commercial skills and business acumen. Willing to work with data science in business environments to solve real-life problems. A professional with a background in Software engineering and a track record of delivering projects to budget within deadlines and effective use of resources.
+
+### Technical Skill Set:
+
+* Python, R, Java programming
+* SQL
+* Practical Machine Learning and Deep Learning
+* Data Cleaning and Data Pre-processing
