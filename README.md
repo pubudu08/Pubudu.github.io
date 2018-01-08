@@ -4,7 +4,7 @@
 ![alt text](https://github.com/pubudu08/pubudu08.github.io/blob/master/icon-data-science-header.png)
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
-If you want more information about me or want to get in touch, feel free to message me on [Linkedin](linkedin.com/in/pubududissanayake).
+If you want more information about me or want to get in touch, feel free to message me on [Linkedin](http://linkedin.com/in/pubududissanayake).
 
 ## Stand-alone projects.
 
